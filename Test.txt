@@ -1,2 +1,4 @@
+АБВГД
 Hello world!
 What a good day!
+123456
