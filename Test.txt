@@ -1,4 +1,6 @@
 АБВГД
 Hello world!
 What a good day!
+redblueyellow
 123456
+abcdef
